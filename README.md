@@ -18,11 +18,11 @@ as passengers and sign up for activities offered at various destinations.
 - Java
 - Lombok
 
-## Higher-Level Design
+## High-Level Diagram
 
 ![Higher-Level Design](https://imgur.com/UyJexlt.jpg)
 
-## Low-Level Design
+## Low-Level Diagram
 
 ![Low-Level Design](https://i.imgur.com/4Fdhjfy.jpg)
 
